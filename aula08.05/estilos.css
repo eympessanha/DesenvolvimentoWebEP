@@ -1,0 +1,22 @@
+
+div {
+    background-color:blue;
+}
+
+ @media screen and (min-width: 1024px){
+    div {
+        background-color: red;
+    }
+}
+
+@media screen and (min-width: 1920px){
+    div {
+        border: solid black 1px;
+        border-radius: 5px;
+        padding: 5px;
+        background-color: green;
+        margin: 10px;
+    }
+}
+
+
