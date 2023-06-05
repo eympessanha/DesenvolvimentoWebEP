@@ -1,0 +1,25 @@
+body{
+    font-family: 'EB Garamond', serif;
+}
+
+.lista1{
+    font-size: 50px;
+}
+
+.div{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 15px;
+    height: max-content;
+    width: max-content;
+}
+
+.span1{
+    color: red;
+    background-color: aqua;
+    font-weight:bold ;
+}
+
+.div3{
+    box-sizing: border-box;
+}
